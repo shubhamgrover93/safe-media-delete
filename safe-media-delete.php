@@ -1,8 +1,7 @@
 <?php 
 
 /*
-* Plugin Name: Safe Media Delete  
-* Plugin URI: https://funnelbud.com/
+* Plugin Name: Safe Media Delete
 * Description: Safe Mdia Delete
 * Version: 1.0
 * Author: Shubham
